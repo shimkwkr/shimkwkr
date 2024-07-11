@@ -17,8 +17,8 @@
 
 
 ## 📖 Education
-
-- **SSAFY** - 삼성 청년 SW 아카데미 12기 (2024.07.11 ~ ing) [:link:](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
+- 👨‍🎓 **충남대** - 충남대학교 전파정보통신공학과 졸업
+- 💡 **SSAFY** - 삼성 청년 SW 아카데미 12기 (2024.07.11 ~ ing) [:link:](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=shimkwkr)](https://solved.ac/shimkwkr)
 
@@ -38,8 +38,13 @@
 <div>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-F68212?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-the-square&logo=Django&logoColor=white">
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-the-square&logo=Vue.js&logoColor=white"><br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
