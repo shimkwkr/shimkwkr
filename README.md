@@ -5,6 +5,14 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Develope%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62"/>
 </p>
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=shimkwkr&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/shimkwkr"
+    width="600"
+    height="120"
+  />
+</a>
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
 ## Hi there 👋
 
